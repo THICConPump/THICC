@@ -28,3 +28,4 @@ Also be sure to populate the following variables in THICC.py to your choosing. I
 
 ## Disclaimer 
 This software is in beta and interacts with live Solana programs to move real funds. Use at your own risk. 
+NOTE: You will need a system process manager in order to run this software, e.g. systemd, PM2
