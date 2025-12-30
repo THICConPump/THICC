@@ -24,9 +24,9 @@ RPC_URL = os.getenv("HELIUS_RPC_URL")
 PRIVATE_KEY = os.getenv("PRIVATE_KEY")
 
 # config
-CREATOR_FEE_MINT = "6Yk3ykeAzkmWMKoh2pT2rRyggUxF8vsrh5UcL2vopump"  # fees claim mint
-BUY_MINT = "Gbu7JAKhTVtGyRryg8cYPiKNhonXpUqbrZuCDjfUpump"        # token to buy
-POOL_ADDRESS = "4KfHWqcSJWsrTq19FLzFYm3cGN4oASAj7ZCiUoFx16KS"     # pumpswap pool
+CREATOR_FEE_MINT = "token_address"  # fees claim mint
+BUY_MINT = "token_address"        # token to buy
+POOL_ADDRESS = "pool_address"     # pumpswap pool
 
 SLIPPAGE_PCT = 10.0
 PRIORITY_FEE_SOL_PUMPORTAL = 0.001
