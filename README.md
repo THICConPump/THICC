@@ -1,6 +1,6 @@
 # THICC
 
-### THICC is an automated Solana liquidity management bot designed for pump.fun / PumpSwap AMM creator tokens.
+### THICC is an automated Solana liquidity boosting tool designed for pump.fun tokens that have successfully migrated onto PumpSwap.
 
 It runs a continuous strategy loop that:
 
